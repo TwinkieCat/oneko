@@ -58,8 +58,8 @@ public class Neko {
 
 	//
 	//Constants
-	private static Dimension MINSIZE=new Dimension(64,64);
-	private static Dimension PRFSIZE=new Dimension(64*16,64*9);
+	private static Dimension MINSIZE=new Dimension(128,128);
+	private static Dimension PRFSIZE=new Dimension(128*16,128*9);
 
 	//
 	// UI Components
